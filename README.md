@@ -1,19 +1,9 @@
-# Simple_Scene_Editor
+# 3DSE
 
-## V0.1
+This project is a 3D scene editor developed using C++ and OpenGL, capable of loading skyboxes, heightmap terrains, and `obj` models. It originated from a group assignment in a computer graphics course at Sun Yat-sen University (2020).
 
-能够简单地加载天空包围盒、地形高度图、obj模型。
+<img src=".\assets\img\README.jpg" style="zoom: 40%;" /><img src=".\assets\img\2.png" style="zoom: 39.7%;" />
 
+Implemented features include: model transformation, Blinn-Phong illumination, Euler angle camera, skybox, heightmap terrain, and interactive controls.
 
-
-
-
-修改（苏蕾）
-
-增加了地形贴图功能
-
-去掉了一些控制台的输出（载入天空盒，纹理等等东西时的输出）
-
-修改一些小BUG，比如目录选择天空盒时，用户不选择可以有一个默认路径而不是直接出错
-
-还有就是加载模型时，用户可以点击取消，取消本次操作。
+This code repository is no longer updated.
